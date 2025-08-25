@@ -332,6 +332,38 @@
               }
             }
           ]
+        },
+        {
+          "id":"2319290",
+          "lang":"en",
+          "published":"2025-04-11T08:00:00+02:00",
+          "published_ts":1744351200,
+          "modified":"2025-04-11T08:00:18+02:00",
+          "modified_ts":1744351218,
+          "type":"press",
+          "issuer":"hexagon",
+          "coverage":"2025",
+          "category":[
+            "wkr-sender-101101:665"
+          ],
+          "channel":"wkr-reg",
+          "headline":"Hexagon announces an update on performance in the first quarter of 2025",
+          "summary":"",
+          "body":"<p>Following a good start to the year, Hexagon has recorded a weaker than expected financial performance in March, which is the most significant month in the quarter for revenues. Growth in the key NAFTA and China markets declined in the last two weeks of March, with economic uncertainty impacting deliveries. Recurring revenues grew strongly during the quarter, but this was more than offset by weakness in sensor sales. The decline in sensor volumes in March, coupled with a 6 MEUR drag from currency transaction effects, had a negative short-term impact on EBIT1 margins.<\/p>\n\n<p>Preliminary reporting indicates revenue of approximately 1,322.8 MEUR in Q1 2025 (Q1 2024: 1,299.9 MEUR), corresponding to organic growth of 0% (Q1 2024: 3%) for the group. Reported growth will be around 2%, with both currency and structure contributing 1% each. EBIT1 (operating earnings excluding adjustments) for the group is expected to be approximately 345 MEUR (Q1 2024: 376.5 MEUR), resulting in an adjusted operating margin of around 26.1% (Q1 2024: 29.0%).<br \/><br \/>The management team is closely monitoring the current uncertainty in end markets, and if demand continues to be impacted actions will be taken to address the cost base of the group accordingly. A further update will be provided in the Q1 2025 report.<\/p>\n\n<p>Hexagon will release its Q1 2025 report on Wednesday 30<sup><\/sup>April 2025 at 08:00 CET.<\/p>\n\n<p><strong>For further information, please contact:<\/strong><strong>&#8239;<\/strong><br \/>\nTom Hull, Head of Investor Relations, Hexagon AB,&#8239;+44 7442 678 437,&#8239;<a href=\"mailto:ir@hexagon.com\" target=\"_blank\">ir@hexagon.com<\/a>&#8239;&#160;<br \/>\nAnton Heikenstr&#246;m, Investor Relations Manager, Hexagon AB, +46 8 601 26&#8239;26,&#8239;<a href=\"mailto:ir@hexagon.com\" target=\"_blank\">ir@hexagon.com<\/a>&#8239;&#160;<\/p>\n\n<p><em>This information is information that Hexagon AB is obliged to make public pursuant to the EU Market Abuse Regulation. The information was submitted for publication, through the agency of the contact person set out above, at 08:00 CET on 11 April 2025.<\/em><\/p>\n<div><\/div>",
+          "contactinfo":"",
+          "companyinfo":"<p><em>Hexagon is the global leader in precision technologies at any scale. Our digital twins, robotics and AI solutions are transforming the industries that shape our reality.<\/em><\/p>\n\n<p><em>Hexagon (Nasdaq Stockholm: HEXA B) has approximately 24,800 employees in 50 countries and net sales of approximately 5.4bn EUR. Learn more at&#160;<\/em><a href=\"http:\/\/www.hexagon.com\/\"><em>hexagon.com<\/em><\/a><em>&#160;and follow us&#160;<\/em><a href=\"https:\/\/x.com\/hexagonab\"><em>@HexagonAB<\/em><\/a><em>.<\/em><\/p>",
+          "files":[
+            {
+              "location":"https:\/\/api.alertir.com\/files\/press\/hexagon\/202504106458-1.pdf",
+              "name":"202504106458-1.pdf",
+              "mimetype":"application\/pdf",
+              "filesize":204495,
+              "attributes":{
+                "title":"Hexagon announces an update on performance in the first quarter of 2025",
+                "caption":""
+              }
+            }
+          ]
         }
       ]
     }
